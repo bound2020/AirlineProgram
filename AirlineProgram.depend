@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1467272520 source:d:\github\airlineprogram\airline.cpp
+	"Airline.h"
+
+1467272909 d:\github\airlineprogram\airline.h
+	<iostream>
+	<string>
+	<list>
+	<algorithm>
+
+1467272544 source:d:\github\airlineprogram\main.cpp
+	"Airline.h"
+
