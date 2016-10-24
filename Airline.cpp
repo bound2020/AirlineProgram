@@ -11,6 +11,7 @@ void Airline::addFlight()
     cout << "Enter flight seat number: ";
     cin >> seatNumber;
     mFlights.push_back(Flight(flightName, seatNumber));
+    //add some comment from Intellij
 }
 
 void Airline::deleteFlight(string inFlightName)
